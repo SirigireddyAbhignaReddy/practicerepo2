@@ -1,0 +1,4 @@
+hii am 1st developer
+
+def password():
+	self.password = password
