@@ -1,0 +1,4 @@
+hii iam 2nd developer 
+def verify(self, username, pass):
+  self.name=username
+  self.pass = pass
