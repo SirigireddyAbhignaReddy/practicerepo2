@@ -1,0 +1,5 @@
+class Login:
+	def login(self,Id, pass):
+		self.username = id
+		self.password = pass
+	print("login success")
